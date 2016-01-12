@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/XiaoMiView.iml" filepath="$PROJECT_DIR$/XiaoMiView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micolumnar/micolumnar.iml" filepath="$PROJECT_DIR$/micolumnar/micolumnar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiftcolorpicker/shiftcolorpicker.iml" filepath="$PROJECT_DIR$/shiftcolorpicker/shiftcolorpicker.iml" />
+    </modules>
+  </component>
+</project>
